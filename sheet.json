@@ -4,5 +4,5 @@
     "authors": "Alex Ott",
     "roll20userid": "3241579",
     "preview": "SIFRPNew.png",
-    "instructions": "#A Song of Ice and Fire Roleplaying: Game of Thrones Edition\rAuto-calculated stats, fancy hideable sections, and more"
+    "instructions": "#A Song of Ice and Fire Roleplaying: Game of Thrones Edition\rAuto-calculated stats, fancy hideable sections, and more\n\n**Updated 05-12-2020 by Noritaka97(#6461)**\n- Css update for army layer\n- Update script TheAaronSheet.js 0.2.3 to 0.2.5\n- Add army layer in Character sheet\n\n**Updated 05-15-2020 by Noritaka97 (#6492) **\n- Add character sheet translation support\n- Add English support as initial translation\n\n**Updated 05-18-2020 by Noritaka97 (#6514)**\n- Add French Translation\n- Minor translation fix in all language files\n- Minor translation variable fix in character sheet"
 }
